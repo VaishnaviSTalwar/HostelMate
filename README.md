@@ -1,4 +1,5 @@
-# Wardenly
+# HostelMate
+
 
 Your hostel, handled.
 
